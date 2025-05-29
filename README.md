@@ -1,0 +1,2 @@
+# Voice-Assistant
+ A Python-based voice assistant that can perform various tasks through speech commands, including web browsing, Wikipedia searches, weather updates, taking photos and screenshots, note-taking, opening applications, and more. It uses libraries like speech_recognition, pyttsx3, wikipedia, wolframalpha, and OpenWeatherMap API to deliver a simple but functional personal assistant experience.
