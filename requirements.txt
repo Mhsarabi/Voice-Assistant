@@ -1,0 +1,9 @@
+comtypes==1.4.11
+numpy==2.2.6
+opencv-python==4.11.0.86
+PyAudio==0.2.14
+pypiwin32==223
+pyttsx3==2.98
+pywin32==310
+SpeechRecognition==3.14.3
+typing_extensions==4.13.2
